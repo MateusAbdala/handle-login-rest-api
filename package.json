@@ -1,0 +1,21 @@
+{
+  "name": "node-token-jwt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.2",
+    "mongoose": "^4.11.7",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
